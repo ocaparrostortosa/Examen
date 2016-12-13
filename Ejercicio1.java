@@ -18,7 +18,11 @@ public class Ejercicio1 {
 		//Hacemos la llamada al método y le pasamos los valores
 		mostrarValores(primerValor, incremento, columnas);
 	}
-	
+	/** Método que nos muestra los valores
+	 * @param primerValor Valor insertado por el usuario
+	 * @param incremento Incremento insertador por el usuario
+	 * @param columnas Columnas insertadas por el usuario
+	 */
 	public static void mostrarValores(int primerValor, int incremento, int columnas){
 		int contador;
 		for(contador = 1;contador <= 10; contador++){

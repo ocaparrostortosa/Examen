@@ -1,0 +1,1000 @@
+ 1079  clear
+ 1080  git log
+ 1081  git pull
+ 1082  ll
+ 1083  vim README.md 
+ 1084  git pull
+ 1085  ll
+ 1086  vim README.md 
+ 1087  ll
+ 1088  git pull
+ 1089  vim README.md 
+ 1090  git remote origin master
+ 1091  git pull
+ 1092  clear
+ 1093  git remote rename inicial1 inicial
+ 1094  clear
+ 1095  git remote add inicial1 git:https://github.com/ocaparrostortosa/inicial1.git
+ 1096  ll
+ 1097  git pull
+ 1098  vim README.md 
+ 1099  git status
+ 1100  git add .
+ 1101  git commit 
+ 1102  git push origin master
+ 1103  git pull
+ 1104  git pull remote origin
+ 1105  git pull inicial1 origin
+ 1106  ll
+ 1107  clear
+ 1108  cd ..
+ 1109  mkdir inicial
+ 1110  mv inicial inicial2
+ 1111  ll
+ 1112  cd inicial2
+ 1113  clear
+ 1114  git clone https://github.com/ocaparrostortosa/inicial2.git
+ 1115  ll
+ 1116  cd inicial2/
+ 1117  ll
+ 1118  cd ..
+ 1119  mv inicial2/ ../inicial2
+ 1120  mv -f inicial2/ ../inicial2
+ 1121  cd ..
+ 1122  mv inicial2 inicial21
+ 1123  cd inicial21
+ 1124  mv inicial2/ ../inicial2
+ 1125  cd ..
+ 1126  ll
+ 1127  rm -r inicial2
+ 1128  ll
+ 1129  rm -r inicial2
+ 1130  s
+ 1131  ll
+ 1132  mv inicial21 inicial2
+ 1133  cd inicial
+ 1134  cd inicial2
+ 1135  ll
+ 1136  cd ..
+ 1137  rm inicial
+ 1138  rm inicial2
+ 1139  rm -r inicial2
+ 1140  ll
+ 1141  git clone https://github.com/ocaparrostortosa/inicial2.git
+ 1142  ll
+ 1143  cd inicial2
+ 1144  ll
+ 1145  git remote -v
+ 1146  cd ..
+ 1147  git clone 
+ 1148  git clone https://github.com/ocaparrostortosa/Ejercicio.git
+ 1149  ll
+ 1150  cd Ejercicio/
+ 1151  ll
+ 1152  vim .gitignore 
+ 1153  clear
+ 1154  vim TipoDias.java
+ 1155  javac TipoDias.java 
+ 1156  vim TipoDias.java
+ 1157  javac TipoDias.java 
+ 1158  vim TipoDias.java
+ 1159  javac TipoDias.java 
+ 1160  java TipoDias 
+ 1161  vim TipoDias.java
+ 1162  javac TipoDias.java 
+ 1163  vim TipoDias.java
+ 1164  javac TipoDias.java 
+ 1165  vim TipoDias.java
+ 1166  javac TipoDias.java 
+ 1167  vim TipoDias.java
+ 1168  javac TipoDias.java 
+ 1169  java TipoDias 
+ 1170  javac TipoDias.java 
+ 1171  vim TipoDias.java
+ 1172  javac TipoDias.java 
+ 1173  java TipoDias 
+ 1174  vim TipoDias.java
+ 1175  javac TipoDias.java 
+ 1176  vim TipoDias.java
+ 1177  java TipoDias 
+ 1178  clear
+ 1179  java TipoDias 
+ 1180  vim TipoDias.java
+ 1181  clear
+ 1182  vim TipoDias.java
+ 1183  java TipoDias 
+ 1184  clear
+ 1185  vim TipoDias.java
+ 1186  javac TipoDias.java 
+ 1187  java TipoDias 
+ 1188  clear
+ 1189  vim TipoDias.java
+ 1190  javac TipoDias.java 
+ 1191  java TipoDias 
+ 1192  javac TipoDias.java 
+ 1193  java TipoDias 
+ 1194  clear
+ 1195  git status
+ 1196  git add .
+ 1197  git status
+ 1198  git commit -m "Archivo TipoDias.java"
+ 1199  git log --oneline
+ 1200  git push origin remote
+ 1201  git push -u origin remote
+ 1202  git remote -v
+ 1203  git push
+ 1204  git status
+ 1205  git push
+ 1206  javadoc TipoDatos.java -d ./doc -author -version -charset "utf-8"
+ 1207  ll
+ 1208  javadoc TipoDias.java -d ./doc -author -version -charset "utf-8"
+ 1209  ll
+ 1210  cd doc
+ 1211  firefox index.html 
+ 1212  git status
+ 1213  java pull
+ 1214  java pull remote origin
+ 1215  cd ..
+ 1216  java pull
+ 1217  git pull
+ 1218  git status
+ 1219  ll
+ 1220  vim TipoDias.java 
+ 1221  clear
+ 1222  chromium
+ 1223  google
+ 1224  clear
+ 1225  cd  git/
+ 1226  ll
+ 1227  git clone https://github.com/ocaparrostortosa/Programacion.git
+ 1228  ll
+ 1229  cd Programacion/
+ 1230  ll
+ 1231  cd java/
+ 1232  git status
+ 1233  git add .
+ 1234  git status
+ 1235  git commit -m "Prueba de git en clase"
+ 1236  git status
+ 1237  git log -stat 
+ 1238  git log --stat 
+ 1239  clear
+ 1240  cd --
+ 1241  cd git/
+ 1242  ll
+ 1243  cd Programacion/
+ 1244  ll
+ 1245  git status
+ 1246  git push
+ 1247  clear
+ 1248  cd ..
+ 1249  ll
+ 1250  git remote -v
+ 1251  cd Programacion/
+ 1252  git remote -v
+ 1253  cd ..
+ 1254  tree | get Tipo*
+ 1255  tree | grep Tipo*
+ 1256  cd inicial2
+ 1257  lñ
+ 1258  ll
+ 1259  cd ..
+ 1260  cd inicial
+ 1261  cd inicial1
+ 1262  ll
+ 1263  cd ..
+ 1264  clear
+ 1265  ll
+ 1266  cd Ejercicio/
+ 1267  ll
+ 1268  cd ..
+ 1269  cd Ejercicio/
+ 1270  clear
+ 1271  git pull
+ 1272  vim TipoDias.java 
+ 1273  git status
+ 1274  git add .
+ 1275  git commit -m "Update the programm TipoDías.java"
+ 1276  java push
+ 1277  git push
+ 1278  javac TipoDias.java 
+ 1279  java TipoDias 
+ 1280  Lunes
+ 1281  java TipoDias 
+ 1282  clear
+ 1283  git push
+ 1284  clear
+ 1285  vim TipoDias.java 
+ 1286  javac TipoDias.java 
+ 1287  vim TipoDias.java 
+ 1288  javac TipoDias.java 
+ 1289  vim TipoDias.java 
+ 1290  javac TipoDias.java 
+ 1291  java TipoDias 
+ 1292  clear
+ 1293  git add .
+ 1294  git commit -m "Added to the programm TipoDias.java some tips in English"
+ 1295  java push
+ 1296  git push
+ 1297  vim TipoDias.java 
+ 1298  clear
+ 1299  cd git/
+ 1300  ls
+ 1301  git clone https://github.com/ocaparrostortosa/RepositorioEjercicio.git
+ 1302  clear
+ 1303  vim Perimetro.java
+ 1304  ll
+ 1305  mv Perimetro.java RepositorioEjercicio/
+ 1306  ll
+ 1307  cd RepositorioEjercicio/
+ 1308  ll
+ 1309  clear
+ 1310  javac Perimetro.java 
+ 1311  java Perimetro 
+ 1312  javac Perimetro.java 
+ 1313  java Perimetro 
+ 1314  javac Perimetro.java 
+ 1315  java Perimetro 
+ 1316  javac Perimetro.java 
+ 1317  java Perimetro 
+ 1318  javac Perimetro.java 
+ 1319  java Perimetro 
+ 1320  clear
+ 1321  git status
+ 1322  git add .
+ 1323  clear
+ 1324  git commit -m "Added the exercise to calculate the perimeter and the area of a equilateral triangle"
+ 1325  git log
+ 1326  clear
+ 1327  git push
+ 1328  javac Perimetro.java 
+ 1329  java Perimetro
+ 1330  javac Perimetro.java 
+ 1331  java Perimetro 
+ 1332  javac Perimetro.java 
+ 1333  java Perimetro 
+ 1334  javac Perimetro.java 
+ 1335  java Perimetro 
+ 1336  oracle
+ 1337  gtop
+ 1338  htop
+ 1339  exit
+ 1340  cd git/
+ 1341  ll
+ 1342  cd Programacion/
+ 1343  git pull
+ 1344  git push
+ 1345  clear
+ 1346  ll
+ 1347  cd ..
+ 1348  ll
+ 1349  cd Ejercicio/
+ 1350  ll
+ 1351  cd ..
+ 1352  cd RepositorioEjercicio/
+ 1353  ll
+ 1354  vim Perimetro.java 
+ 1355  java Perimetro 
+ 1356  vim Perimetro.java 
+ 1357  java Perimetro 
+ 1358  clear
+ 1359  git checkout
+ 1360  vim Matematicas.java
+ 1361  clear
+ 1362  ll
+ 1363  javac Matematicas.java 
+ 1364  java Matematicas 
+ 1365  javac Matematicas.java 
+ 1366  java Matematicas 
+ 1367  javac Matematicas.java 
+ 1368  java Matematicas 
+ 1369  clear
+ 1370  java Matematicas 
+ 1371  clear
+ 1372  javac Matematicas.java 
+ 1373  vim TestMatematicas.java
+ 1374  javac Matematicas.java 
+ 1375  javac TestMatematicas.java 
+ 1376  java TestMatematicas
+ 1377  clear
+ 1378  ll
+ 1379  java Matematicas 
+ 1380  javac TestMatematicas.java 
+ 1381  java TestMatematicas 
+ 1382  clear
+ 1383  cd ..
+ 1384  ll
+ 1385  rm -fc inicial*
+ 1386  rm -f inicial*
+ 1387  rm -rf inicial*
+ 1388  ll
+ 1389  cd Ejercicio/
+ 1390  ls
+ 1391  cd ..
+ 1392  tree
+ 1393  cd ..
+ 1394  cd git/
+ 1395  ll
+ 1396  cd repositorio
+ 1397  ll
+ 1398  cat Nuevo.java 
+ 1399  cd ..
+ 1400  rm -rf repositorio
+ 1401  rm -rf repositorioManolo/
+ 1402  ll
+ 1403  clear
+ 1404  cd RepositorioEjercicio/
+ 1405  ll
+ 1406  git push
+ 1407  git add .
+ 1408  git commit -m "Made the new exercise called Matematicas and TestMatematicas"
+ 1409  git status
+ 1410  git log
+ 1411  git remote -v
+ 1412  ll
+ 1413  clear
+ 1414  ll
+ 1415  git status
+ 1416  git push 
+ 1417  ll
+ 1418  git log
+ 1419  git log --oneline
+ 1420  git reset hard --c561edb
+ 1421  git reset --hard c561edb
+ 1422  ll
+ 1423  git log
+ 1424  git push 
+ 1425  ll
+ 1426  git pull
+ 1427  ll
+ 1428  git branch desarrollo
+ 1429  git checkout desarrollo 
+ 1430  ll
+ 1431  git push origin desarrollo 
+ 1432  filezilla
+ 1433  ftp microserver01
+ 1434  filezilla
+ 1435  ftp microserver01
+ 1436  ftp microserver01/~ocaparrostortosa
+ 1437  ftp microserver01
+ 1438  clear
+ 1439  ftp microserver01
+ 1440  filezilla
+ 1441  ftp microserver01
+ 1442  filezilla
+ 1443  cd git/
+ 1444  ls
+ 1445  cd RepositorioEjercicio/
+ 1446  ll
+ 1447  mkdir src
+ 1448  rmdir src
+ 1449  git pull
+ 1450  git remote -v
+ 1451  git pull
+ 1452  git pull master origin
+ 1453  git push
+ 1454  clear
+ 1455  git push
+ 1456  clear
+ 1457  git remote -v
+ 1458  git fetch
+ 1459  ll
+ 1460  git pull
+ 1461  git branch
+ 1462  git branch master
+ 1463  git checkout master
+ 1464  git pull
+ 1465  git checkout master
+ 1466  git pull
+ 1467  clear
+ 1468  java Matematicas 
+ 1469  java TestMatematicas 
+ 1470  clear
+ 1471  filezilla
+ 1472  vim Matematicas.java 
+ 1473  vim TestMatematicas.java 
+ 1474  vim Matematicas.java 
+ 1475  javac TestMatematicas.java 
+ 1476  java TestMatematicas 
+ 1477  cd git/
+ 1478  ls
+ 1479  cd RepositorioEjercicio/
+ 1480  ll
+ 1481  git remote -v
+ 1482  git checkout
+ 1483  clear
+ 1484  git status
+ 1485  git commit -a -m "Finished the exercise 'Matematicas.java'"
+ 1486  git log
+ 1487  clear
+ 1488  git push
+ 1489  clear
+ 1490  ll
+ 1491  java TestMatematicas 
+ 1492  clear
+ 1493  git branch desarrollo
+ 1494  clear
+ 1495  git checkout desarrollo 
+ 1496  clear
+ 1497  git status
+ 1498  clear
+ 1499  ll
+ 1500  clear
+ 1501  git merge master
+ 1502  clear
+ 1503  git branch -d desarrollo 
+ 1504  git checkout master
+ 1505  git branch -d desarrollo 
+ 1506  clear
+ 1507  git push
+ 1508  clear
+ 1509  git checkout desarrollo 
+ 1510  status
+ 1511  git status
+ 1512  ll
+ 1513  git push
+ 1514  clear
+ 1515  git checkout master 
+ 1516  git branch -d desarrollo
+ 1517  clear
+ 1518  git status
+ 1519  git checkout
+ 1520  git checkout desarrollo 
+ 1521  git branch -d desarrollo
+ 1522  git checkout master
+ 1523  git branch -d desarrollo
+ 1524  git push
+ 1525  git branch -d desarrollo
+ 1526  clear
+ 1527  git push
+ 1528  git status
+ 1529  clear
+ 1530  git push
+ 1531  clear
+ 1532  git checkout master
+ 1533  clear
+ 1534  cd ..
+ 1535  ll
+ 1536  mkdir DamHtmlProject
+ 1537  cd DamHtmlProject/
+ 1538  git init
+ 1539  ll
+ 1540  vim .gitignore
+ 1541  clear
+ 1542  ll
+ 1543  git remote -v
+ 1544  git remote add DamHtmlProject https://github.com/ocaparrostortosa
+ 1545  git remote -v
+ 1546  git remote add DamHtmlProject https://github.com/ocaparrostortosa/DamHtmlProject
+ 1547  git remote -v
+ 1548  git push
+ 1549  git push origin DamHtmlProject
+ 1550  git pull
+ 1551  clear
+ 1552  git remote rm DamHtmlProject
+ 1553  git remote -v
+ 1554  git remote add DamHtmlProject https://github.com/ocaparrostortosa/DamHtmlProject
+ 1555  git remote -v
+ 1556  git pull
+ 1557  git pull origin DamHtmlProject
+ 1558  git pull DamHtmlProject DamHtmlProject
+ 1559  git remote rm DamHtmlProject
+ 1560  git remote -v
+ 1561  git remote add origin https://github.com/ocaparrostortosa/DamHtmlProject
+ 1562  git remote -v
+ 1563  git push 
+ 1564  git push
+ 1565  git push origin DamHtmlProject
+ 1566  git push origin master
+ 1567  clear
+ 1568  git push origin DamHtmlProject
+ 1569  git push
+ 1570  ll
+ 1571  git remote -v
+ 1572  git push
+ 1573  git push origin master
+ 1574  clear
+ 1575  git pull
+ 1576  git pull origin master
+ 1577  git pull origin DamHtmlProject
+ 1578  git pull DamHtmlProject
+ 1579  clear
+ 1580  git clone https://github.com/ocaparrostortosa
+ 1581  git clone https://github.com/ocaparrostortosa/DamHtmlProject
+ 1582  ll
+ 1583  cd ..
+ 1584  rm -rf DamHtmlProject/
+ 1585  clear
+ 1586  ll
+ 1587  git clone https://github.com/ocaparrostortosa/DamHtmlProject
+ 1588  ll
+ 1589  cd DamHtmlProject/
+ 1590  clear
+ 1591  ll
+ 1592  vim .gitignore
+ 1593  clear
+ 1594  ll
+ 1595  git push
+ 1596  git remote -v
+ 1597  git push origin DamHtmlProject
+ 1598  git push origin
+ 1599  git push
+ 1600  git remote add origin https://github.com/ocaparrostortosa/DamHtmlProject
+ 1601  git remote add DamHtmlProject https://github.com/ocaparrostortosa/DamHtmlProject
+ 1602  clear
+ 1603  git push
+ 1604  git push -u origin master
+ 1605  clear
+ 1606  git remote -v
+ 1607  git push -u origin master
+ 1608  git push -u DamHtmlProject master
+ 1609  clear
+ 1610  ll
+ 1611  clear
+ 1612  cd ..
+ 1613  ll
+ 1614  rm -rf DamHtmlProject/
+ 1615  git clone https://github.com/ocaparrostortosa/DamHtmlProject.git
+ 1616  ll
+ 1617  cd DamHtmlProject/
+ 1618  clear
+ 1619  ll
+ 1620  git remote -v
+ 1621  git push -u origin master
+ 1622  git remote add origin https://github.com/ocaparrostortosa/DamHtmlProject.git
+ 1623  git remote -v
+ 1624  git status
+ 1625  git commit -a -m "Added the project"
+ 1626  git add .
+ 1627  git status
+ 1628  git commit -m "Added the project"
+ 1629  clear
+ 1630  git status
+ 1631  git push
+ 1632  ll
+ 1633  clear
+ 1634  git remote -v
+ 1635  clear
+ 1636  Jose gay de mierda
+ 1637  clear
+ 1638  git branch Inicial
+ 1639  git checkout Inicial 
+ 1640  clear
+ 1641  git status
+ 1642  ll
+ 1643  git branch --help
+ 1644  git branch HEAD
+ 1645  git branch HEAD Inicial 
+ 1646  git branch --HEAD Inicial
+ 1647  clear
+ 1648  git commit -m "First commit as Inicial branch"
+ 1649  ll
+ 1650  cd Trabajo\ finalizado/
+ 1651  ll
+ 1652  mv Filezilla.png Filezillaa.png
+ 1653  cd ..
+ 1654  git status
+ 1655  git commit -a -m "Added a commit to the new branch Inicial"
+ 1656  clear
+ 1657  ll
+ 1658  clear
+ 1659  git push
+ 1660  git push Inicial master
+ 1661  clear
+ 1662  git push
+ 1663  git push origin Inicial
+ 1664  clear
+ 1665  git status
+ 1666  git add .
+ 1667  git commit
+ 1668  clear
+ 1669  git status
+ 1670  clear
+ 1671  cd Trabajo\ finalizado/
+ 1672  ll
+ 1673  git status 
+ 1674  clear
+ 1675  cd ..
+ 1676  clear
+ 1677  cd git
+ 1678  ll
+ 1679  git clone https://github.com/ocaparrostortosa/POO_1.git
+ 1680  cd POO_1/
+ 1681  clear
+ 1682  git remote -v
+ 1683  clear
+ 1684  mkdir teoria
+ 1685  cd teoria
+ 1686  vim Rectangulo.java
+ 1687  javac Rectangulo.java 
+ 1688  java Rectangulo 
+ 1689  vim TestRectangulo.java
+ 1690  javac TestRectangulo.java 
+ 1691  java Rectangulo 
+ 1692  java TestRectangulo 
+ 1693  clear
+ 1694  javac TestRectangulo.java 
+ 1695  java TestRectangulo 
+ 1696  javac TestRectangulo.java 
+ 1697  java TestRectangulo 
+ 1698  javac TestRectangulo.java 
+ 1699  javac Rectangulo.java 
+ 1700  clear
+ 1701  java TestRectangulo 
+ 1702  javac Rectangulo.java 
+ 1703  java TestRectangulo 
+ 1704  javac Rectangulo.java 
+ 1705  javac TestRectangulo.java 
+ 1706  cd ..
+ 1707  git commit -a -m "First commit with first exercises"
+ 1708  git add .
+ 1709  git commit -m "First commit with first exercises"
+ 1710  git push
+ 1711  clear
+ 1712  ll
+ 1713  cd teoria/
+ 1714  javac TestRectangulo.java 
+ 1715  javac Rectangulo.java 
+ 1716  clear
+ 1717  javac TestRectangulo.java 
+ 1718  javac Rectangulo.java 
+ 1719  javac TestRectangulo.java 
+ 1720  java TestRectangulo 
+ 1721  javac TestRectangulo.java 
+ 1722  javac Rectangulo.java 
+ 1723  javac TestRectangulo.java 
+ 1724  javac Rectangulo.java 
+ 1725  clear
+ 1726  javac Rectangulo.java 
+ 1727  javac TestRectangulo.java 
+ 1728  clear
+ 1729  java TestRectangulo 
+ 1730  javac Rectangulo.java 
+ 1731  javac TestRectangulo.java 
+ 1732  javac Rectangulo.java 
+ 1733  clear
+ 1734  javac Rectangulo.java 
+ 1735  java Rectangulo 
+ 1736  java TestRectangulo 
+ 1737  javac Rectangulo.java 
+ 1738  javac 
+ 1739  javac Rectangulo.java 
+ 1740  javac TestRectangulo.java 
+ 1741  java TestRectangulo 
+ 1742  clear
+ 1743  git commit -a -m "Exercise finished"
+ 1744  git push
+ 1745  cd POO_1/
+ 1746  clear
+ 1747  cd teoria/
+ 1748  clear
+ 1749  ll
+ 1750  clear
+ 1751  ll
+ 1752  javac Metodos.java 
+ 1753  java Metodos 
+ 1754  clear
+ 1755  javac Metodos.java 
+ 1756  java Metodos 
+ 1757  javac Metodos.java 
+ 1758  java Metodos 
+ 1759  clear
+ 1760  javac Metodos.java 
+ 1761  clear
+ 1762  java Metodos 
+ 1763  clear
+ 1764  java Metodos 
+ 1765  clear
+ 1766  java Metodos 
+ 1767  javac Metodos.java 
+ 1768  java Metodos
+ 1769  clear
+ 1770  java Metodos
+ 1771  javac Metodos.java 
+ 1772  java Metodos
+ 1773  javac Metodos.java 
+ 1774  java Metodos
+ 1775  clear
+ 1776  javac Metodos.java 
+ 1777  javav Metodos
+ 1778  java Metodos
+ 1779  javac Metodos.java 
+ 1780  java Metodos
+ 1781  clear
+ 1782  java Metodos
+ 1783  javac Metodos.java 
+ 1784  java Metodos
+ 1785  clear
+ 1786  java Metodos
+ 1787  javac Metodos.java 
+ 1788  clear
+ 1789  javac Metodos.java 
+ 1790  java Metodos 
+ 1791  javac Metodos.java 
+ 1792  java Metodos 
+ 1793  javac Metodos.java 
+ 1794  java Metodos 
+ 1795  javac Metodos.java 
+ 1796  java Metodos 
+ 1797  javac Metodos.java 
+ 1798  java Metodos 
+ 1799  javac Metodos.java 
+ 1800  java Metodos 
+ 1801  clear
+ 1802  cd git
+ 1803  ls
+ 1804  cd POO_1/
+ 1805  clear
+ 1806  git pull
+ 1807  cd ..
+ 1808  cd Ejercicio/
+ 1809  cd ..
+ 1810  clear
+ 1811  ll
+ 1812  cd RepositorioEjercicio/
+ 1813  ll
+ 1814  cd ..
+ 1815  cd Ejercicio/
+ 1816  clear
+ 1817  git pul
+ 1818  git pull
+ 1819  clear
+ 1820  ll
+ 1821  cd ..
+ 1822  cd POO_1/
+ 1823  clear
+ 1824  ll
+ 1825  cd teoria/
+ 1826  clear
+ 1827  ll
+ 1828  clear
+ 1829  vim Metodos.java
+ 1830  git status
+ 1831  git add .
+ 1832  git commit -m "Ejercicios de repaso dia 7"
+ 1833  git push
+ 1834  cd git/
+ 1835  cd POO_1/
+ 1836  git pull
+ 1837  ll
+ 1838  cd teoria/
+ 1839  clear
+ 1840  ll
+ 1841  clear
+ 1842  vim Triangulo.java
+ 1843  vim TestTriangulo.java
+ 1844  git status
+ 1845  git add .
+ 1846  clear
+ 1847  git status
+ 1848  vim .gitignore
+ 1849  ll
+ 1850  cd ..
+ 1851  ll
+ 1852  vim .gitignore 
+ 1853  clear
+ 1854  cd teoria/
+ 1855  git status
+ 1856  git reset HEAD *doc*
+ 1857  git status
+ 1858  git add .
+ 1859  git status
+ 1860  git reset HEAD *doc*
+ 1861  git status
+ 1862  git add ../.gitignore 
+ 1863  git status
+ 1864  git commit -m ".gitignore actualizado + ejercicio Triangulos"
+ 1865  git push
+ 1866  clear
+ 1867  git status
+ 1868  cd ..
+ 1869  vim .gitignore 
+ 1870  cd teoria/
+ 1871  clear
+ 1872  git status
+ 1873  git add ../.gitignore 
+ 1874  git commit -m "Gitignore modificado de nuevo"
+ 1875  git push 
+ 1876  cd POO_1/
+ 1877  cd teoria/
+ 1878  clear
+ 1879  java Metodos 
+ 1880  javac Metodos.java 
+ 1881  java Metodos 
+ 1882  clear
+ 1883  javac Triangulo.java 
+ 1884  clear
+ 1885  javac TestTriangulo.java 
+ 1886  java TestTriangulo 
+ 1887  javac TestTriangulo.java 
+ 1888  java TestTriangulo 
+ 1889  javac TestTriangulo.java 
+ 1890  java TestTriangulo 
+ 1891  javac Triangulo.java 
+ 1892  javac TestTriangulo.java 
+ 1893  javac Triangulo.java 
+ 1894  java TestTriangulo 
+ 1895  javac Triangulo.java 
+ 1896  java TestTriangulo 
+ 1897  javac Triangulo.java 
+ 1898  javac TestTriangulo.java 
+ 1899  java TestTriangulo 
+ 1900  javac TestTriangulo.java 
+ 1901  java TestTriangulo 
+ 1902  javac TestTriangulo.java 
+ 1903  javac Triangulo.java 
+ 1904  java TestTriangulo 
+ 1905  javac Triangulo.java 
+ 1906  javac TestTriangulo.java 
+ 1907  java TestTriangulo 
+ 1908  javac TestTriangulo.java 
+ 1909  java TestTriangulo 
+ 1910  clear
+ 1911  javac Triangulo.java 
+ 1912  javadoc -author -version -d doc Triangulo.java
+ 1913  javac Triangulo.java 
+ 1914  javadoc -author -version -d doc Triangulo.java
+ 1915  javac Triangulo.java 
+ 1916  javadoc -author -version -d doc Triangulo.java
+ 1917  javadoc -author -version -charset "utf8" -d doc Triangulo.java
+ 1918  javac Triangulo.java 
+ 1919  javadoc -author -version -charset "utf8" -d doc Triangulo.java
+ 1920  javadoc -author -version -d doc Triangulo.java
+ 1921  javadoc -author -version -charset "utf8" -d doc Triangulo.java
+ 1922  cd git/
+ 1923  ll
+ 1924  mkdir prueba
+ 1925  rm prueba/
+ 1926  rmdir prueba/
+ 1927  clear
+ 1928  git clone https://github.com/manoloIESvirgendelcarmen/prueba.git
+ 1929  ll
+ 1930  cd prueba/
+ 1931  ll
+ 1932  vim HolaMundo.java 
+ 1933  git status
+ 1934  git add .
+ 1935  git commit 
+ 1936  git push
+ 1937  git remote
+ 1938  git remote -v
+ 1939  git remote add
+ 1940  git remote add prueba https://github.com/ocaparrostortosa/prueba.git
+ 1941  git remote -v
+ 1942  git push prueba master
+ 1943  git push
+ 1944  git push origin prueba
+ 1945  git pull
+ 1946  git push origin prueba
+ 1947  git push prueba master
+ 1948  git push --help
+ 1949  git push https://github.com/ocaparrostortosa/prueba.git
+ 1950  git pull https://github.com/ocaparrostortosa/prueba.git
+ 1951  git push https://github.com/ocaparrostortosa/prueba.git
+ 1952  git remote -v
+ 1953  git remote --help
+ 1954  git remote remove https://github.com/manoloIESvirgendelcarmen/prueba.git
+ 1955  git remote remove prueba.git
+ 1956  git remote --help
+ 1957  git remote remove origin
+ 1958  git remote .v
+ 1959  git remote -v
+ 1960  git push
+ 1961  git remote add https://github.com/ocaparrostortosa/prueba.git
+ 1962  git remote add origin https://github.com/ocaparrostortosa/prueba.git
+ 1963  git remote -v
+ 1964  git remote remove prueba
+ 1965  git remote -v
+ 1966  git push
+ 1967  git push origin master
+ 1968  git pull
+ 1969  git pull origin master
+ 1970  ls
+ 1971  ll
+ 1972  cd ..
+ 1973  cd prueba/
+ 1974  clear
+ 1975  cd git
+ 1976  ll
+ 1977  rm -rf prueba/
+ 1978  ll
+ 1979  clear
+ 1980  exit
+ 1981  sudo apt-get install ubuntu-desktop
+ 1982  sudo apt-get install gnome-desktop
+ 1983  clear
+ 1984  sudo apt-get install gnome-shell
+ 1985  sudo vim /user/share/xsessions
+ 1986  sudo vim /manana/share/xsessions
+ 1987  cd /
+ 1988  cd usr/share/xsessions/
+ 1989  ls
+ 1990  ll
+ 1991  vim $HOME/.dmrc
+ 1992  cp $HOME/.dmrc $HOME/.dmrc2
+ 1993  ll $HOME/
+ 1994  vim $HOME/.dmrc
+ 1995  sudo reboot now
+ 1996  vim /home/matinal/.dmrc
+ 1997  clear
+ 1998  cd git
+ 1999  clear
+ 2000  ll
+ 2001  mkdir Examen
+ 2002  cd Examen/
+ 2003  ls
+ 2004  clear
+ 2005  javac Ejercicio1.java 
+ 2006  java Ejercicio1 
+ 2007  javac Ejercicio1.java 
+ 2008  java Ejercicio1 
+ 2009  javac Ejercicio1.java 
+ 2010  java Ejercicio1 
+ 2011  javac Ejercicio1.java 
+ 2012  java Ejercicio1 
+ 2013  javac Ejercicio1.java 
+ 2014  java Ejercicio1 
+ 2015  javac Ejercicio1.java 
+ 2016  java Ejercicio1 
+ 2017  javac Ejercicio1.java 
+ 2018  java Ejercicio1 
+ 2019  javac Ejercicio1.java 
+ 2020  java Ejercicio1 
+ 2021  javac Ejercicio1.java 
+ 2022  java Ejercicio1 
+ 2023  javac Ejercicio1.java 
+ 2024  java Ejercicio1 
+ 2025  javac Ejercicio2
+ 2026  javac Ejercicio2.java
+ 2027  javac Ejercicio2
+ 2028  javac Ejercicio2.java
+ 2029  java Ejercicio2
+ 2030  javac Ejercicio2.java
+ 2031  java Ejercicio2
+ 2032  javac Ejercicio2.java
+ 2033  java Ejercicio2
+ 2034  javac Ejercicio2.java
+ 2035  java Ejercicio2
+ 2036  javac Ejercicio2.java
+ 2037  java Ejercicio2
+ 2038  javac Ejercicio2.java
+ 2039  java Ejercicio2
+ 2040  javac Ejercicio2.java
+ 2041  java Ejercicio2
+ 2042  javac Ejercicio2.java
+ 2043  java Ejercicio2
+ 2044  javac Ejercicio2.java
+ 2045  java Ejercicio2
+ 2046  javac Ejercicio2.java
+ 2047  java Ejercicio2
+ 2048  javac Ejercicio2.java
+ 2049  java Ejercicio2
+ 2050  javac Ejercicio2.java
+ 2051  java Ejercicio2
+ 2052  cd gitExamen/
+ 2053  git init
+ 2054  vim .gitignore
+ 2055  ll
+ 2056  cd ..
+ 2057  cp *.java gitExamen/
+ 2058  ll
+ 2059  cd gitExamen/
+ 2060  ll
+ 2061  javac Ejercicio1.java
+ 2062  javadoc Ejercicio1.java -author -version -charset "utf8" -d doc/
+ 2063  ll
+ 2064  firefox doc/index.html 
+ 2065  git remote add origin https://github.com/ocaparrostortosa/Examen.git
+ 2066  git remote -v
+ 2067  git pull
+ 2068  git pull origin master
+ 2069  ll
+ 2070  git push
+ 2071  git push origin master
+ 2072  git status
+ 2073  git add .
+ 2074  git commit 
+ 2075  git status
+ 2076  git push origin master
+ 2077  ll
+ 2078  history > comandosUsados.txt

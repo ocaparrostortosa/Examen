@@ -17,38 +17,22 @@ public class Ejercicio2 {
 		mostrarMayusculaYMinuscula(palabra);
 		
 		}
+		
+		//Método que nos muestra el numero de vocales y cuales son
 		public static void mostrarNumeroVocales(String palabra){
 			int contadorVocales = 0;
-			String a = "a";
-			char e = 'e';
-			char i = 'i';
-			char o = 'o';
-			char u = 'u';
-						
-			/** switch(palabra){
-				case palabra.contains(a):
+			int longitud = palabra.length();
+			for(int j = 0;j < longitud;j++){
+				char letra = palabra.charAt(j);
+				if( letra == 'a' || letra == 'e' || letra == 'i' || letra == 'o' || letra == 'u'){
+					System.out.println("Su palabra contiene la vocal: "+letra);
 					contadorVocales++;
-					break;
-				case palabra.contains(e):
-					contadorVocales++;
-					break;
-				case palabra.contains(i):
-					contadorVocales++;
-					break;
-				case palabra.contains(o):
-					contadorVocales++;
-					break;
-				case palabra.contains(u):
-					contadorVocales++;
-					break;
-				default:
-					System.out.println("Su palabra no contiene vocales");
-					break;
-			}
+				}
+			}					
 			System.out.println("Numero de vocales: "+contadorVocales);
-			*/
-			}
-			
+		}
+		
+		//Metodo que nos muestra si la palabra tiene tilde
 		public static void mostrarLlevaTilde(String palabra){
 			if(palabra.contains("á") || palabra.contains("é") || palabra.contains("í") || palabra.contains("ó") || palabra.contains("ú"))
 				System.out.println("Su palabra contiene tildes");
@@ -56,10 +40,12 @@ public class Ejercicio2 {
 				System.out.println("Su palabra NO contiene tildes");
 		}
 		
+		//Metodo que nos muestra las mayusculas y minusculas
 		public static void mostrarMayusculaYMinuscula(String palabra){
+			String palabraConcatenada;
 			String palabraMin = palabra.toLowerCase();
 			String palabraMay = palabra.toUpperCase();
-			System.out.printf("Su palabra en mayúscula sería: %s, y en minúscula: %s%n", palabraMay, palabraMin);
+			System.out.printf("Su palabra en mayúscula sería: %s, y en minúscula: %s%n y la concatenación %s%n", palabraMay, palabraMin, palabraMay.concat(palabraMin));
 		}
 }
 
